@@ -1,4 +1,4 @@
-xxxxxxxxxxxxxxxxxxthis is a txt file named a.
+merge completed new line.
 
 
 new line.
